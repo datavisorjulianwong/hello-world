@@ -1,4 +1,4 @@
 test add a line
 add another line
 add a third line 
-add a fourth line...adding some more stuff to create conflict
+add a fourth line...adding some more stuff to create conflict...adding other bits to end
