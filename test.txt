@@ -1,5 +1,0 @@
-<html>
-<li>test 1</li>
-<li>Julian</li>
-<li>Wong</li>
-</html>
