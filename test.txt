@@ -1,4 +1,8 @@
 test add a line
 add another line
 add a third line 
+<<<<<<< HEAD
 add a fourth line...
+=======
+add a fourth line...adding some more stuff to create conflict...adding other bits to end
+>>>>>>> c3ccfb50cc6abcdf841e4dcbdd33344a862a7403
